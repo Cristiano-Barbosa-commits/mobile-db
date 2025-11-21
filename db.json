@@ -1,0 +1,81 @@
+{
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 101,
+      "title": "Cachorro na grama",
+      "url": "https://picsum.photos/id/237/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/237/200/200"
+    },
+    {
+      "albumId": 1,
+      "id": 102,
+      "title": "Notebook e café",
+      "url": "https://picsum.photos/id/0/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/0/200/200"
+    },
+    {
+      "albumId": 1,
+      "id": 103,
+      "title": "Paisagem montanhosa",
+      "url": "https://picsum.photos/id/10/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/10/200/200"
+    },
+    {
+      "albumId": 1,
+      "id": 104,
+      "title": "Mar e areia",
+      "url": "https://picsum.photos/id/13/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/13/200/200"
+    },
+    {
+      "albumId": 2,
+      "id": 201,
+      "title": "Floresta densa",
+      "url": "https://picsum.photos/id/28/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/28/200/200"
+    },
+    {
+      "albumId": 2,
+      "id": 202,
+      "title": "Caneca branca",
+      "url": "https://picsum.photos/id/30/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/30/200/200"
+    },
+    {
+      "albumId": 2,
+      "id": 203,
+      "title": "Câmera antiga",
+      "url": "https://picsum.photos/id/250/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/250/200/200"
+    },
+    {
+      "albumId": 3,
+      "id": 301,
+      "title": "Carro clássico",
+      "url": "https://picsum.photos/id/111/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/111/200/200"
+    },
+    {
+      "albumId": 3,
+      "id": 302,
+      "title": "Morangos frescos",
+      "url": "https://picsum.photos/id/1080/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1080/200/200"
+    },
+    {
+      "albumId": 11,
+      "id": 1101,
+      "title": "Farol na costa",
+      "url": "https://picsum.photos/id/57/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/57/200/200"
+    },
+    {
+      "albumId": 11,
+      "id": 1102,
+      "title": "Estrada vazia",
+      "url": "https://picsum.photos/id/60/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/60/200/200"
+    }
+  ]
+}
